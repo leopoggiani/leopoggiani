@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo Poggiani</h1>
-## A passionate Devops Engineer @ [Geckosoft](https://www.geckosoft.it)
+## A Devops Engineer @ Geckosoft
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardopoggiani&label=Profile%20views&color=0e75b6&style=flat" alt="leonardopoggiani" /> </p>
 
