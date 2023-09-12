@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Leonardo Poggiani</h1>
-<h3 align="center">A passionate Devops Engineer @ [Geckosoft](https://www.geckosoft.it/) </h3>
+<h3 align="center">A passionate Devops Engineer @ [Geckosoft](https://www.geckosoft.it) </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardopoggiani&label=Profile%20views&color=0e75b6&style=flat" alt="leonardopoggiani" /> </p>
 
 - 🔭 I’m currently working on **GO, Kubernetes, Terraform, Azure**
 
-- 👨‍💻 All of my projects are available at [https://github.com/leonardopoggiani](https://github.com/leonardopoggiani)
+- 👨‍💻 All of my projects are available at [leonardopoggiani](https://github.com/leonardopoggiani)
 
 - 📫 How to reach me **l.poggiani@geckosoft.it**
 
